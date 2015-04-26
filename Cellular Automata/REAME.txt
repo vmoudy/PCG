@@ -1,0 +1,5 @@
+Default screen is sheep cellular automat written by
+my instructor. 1, 2, and 3 were written by me.
+Press 1 for Conway's Game of Life
+2 for basic cellular automata
+3 for veronoi graph.
